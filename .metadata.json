@@ -1,0 +1,14 @@
+[
+  {
+    "package": "provExplainR",
+    "oncran": true
+  },
+  {
+    "package": "provTraceR",
+    "oncran": true
+  },
+  {
+    "package": "provViz",
+    "oncran": true
+  }
+]
