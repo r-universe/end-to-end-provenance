@@ -8,6 +8,11 @@
 	url = https://github.com/end-to-end-provenance/provexplainr
 	shallow = true
 	registered = true
+[submodule "provSummarizeR"]
+	path = provSummarizeR
+	url = https://github.com/end-to-end-provenance/provsummarizer
+	shallow = true
+	registered = true
 [submodule "provTraceR"]
 	path = provTraceR
 	url = https://github.com/end-to-end-provenance/provtracer
