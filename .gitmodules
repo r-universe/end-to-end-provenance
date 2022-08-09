@@ -23,3 +23,8 @@
 	url = https://github.com/end-to-end-provenance/provviz
 	shallow = true
 	registered = true
+[submodule "rdtLite"]
+	path = rdtLite
+	url = https://github.com/end-to-end-provenance/rdtlite
+	shallow = true
+	registered = true

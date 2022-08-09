@@ -14,5 +14,9 @@
   {
     "package": "provViz",
     "oncran": true
+  },
+  {
+    "package": "rdtLite",
+    "oncran": true
   }
 ]
