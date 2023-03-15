@@ -1,14 +1,10 @@
 [
   {
-    "package": "rdtLite",
-    "oncran": true
-  },
-  {
     "package": "provExplainR",
     "oncran": true
   },
   {
-    "package": "provViz",
+    "package": "provSummarizeR",
     "oncran": true
   },
   {
@@ -16,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "provSummarizeR",
+    "package": "provViz",
+    "oncran": true
+  },
+  {
+    "package": "rdtLite",
     "oncran": true
   }
 ]
