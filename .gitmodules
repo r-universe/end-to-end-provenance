@@ -3,19 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rdtLite"]
+	path = rdtLite
+	url = https://github.com/end-to-end-provenance/rdtlite
+	shallow = true
+	registered = true
 [submodule "provExplainR"]
 	path = provExplainR
 	url = https://github.com/end-to-end-provenance/provexplainr
-	shallow = true
-	registered = true
-[submodule "provSummarizeR"]
-	path = provSummarizeR
-	url = https://github.com/end-to-end-provenance/provsummarizer
-	shallow = true
-	registered = true
-[submodule "provTraceR"]
-	path = provTraceR
-	url = https://github.com/end-to-end-provenance/provtracer
 	shallow = true
 	registered = true
 [submodule "provViz"]
@@ -23,8 +18,13 @@
 	url = https://github.com/end-to-end-provenance/provviz
 	shallow = true
 	registered = true
-[submodule "rdtLite"]
-	path = rdtLite
-	url = https://github.com/end-to-end-provenance/rdtlite
+[submodule "provTraceR"]
+	path = provTraceR
+	url = https://github.com/end-to-end-provenance/provtracer
+	shallow = true
+	registered = true
+[submodule "provSummarizeR"]
+	path = provSummarizeR
+	url = https://github.com/end-to-end-provenance/provsummarizer
 	shallow = true
 	registered = true
